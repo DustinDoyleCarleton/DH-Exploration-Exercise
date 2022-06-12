@@ -1,0 +1,156 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.668806, 42.962139 ] 
+     },
+     "properties": {
+     "Label":"Artifact Number 1966.0016.001"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.146757, 49.887119 ]
+     },
+     "properties": {
+     "Label":"Artifact Number 1966.0020.001"
+     }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.276448, 37.868937 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0022.001, 1966.0078.001, and 1966.0079.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.614324, 39.311191 ]
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0024.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.588881, 45.517299 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0069.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.436331, 51.512565 ]
+    },
+    "properties": {
+    "Label":"Artifact Numbers 1966.0070.001 and 1966.0073.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.610449, 41.761341 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0072.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.333793, 32.752367 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0074.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.701486, 45.416767 ]
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0083.001 and 1966.0084.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.233547, 42.098796 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0085.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.080007, 42.353385 ]
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0086.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.246234, 43.222947 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0087.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.086221, 40.847513 ]
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0088.001 and 1966.0092.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.615690, 41.761341 ] 
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0091.001"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.365726, 43.703009 ]
+    },
+    "properties": {
+    "Label":"Artifact Number 1966.0096.001"
+    }
+  }
+ ]
+ }
+ 
