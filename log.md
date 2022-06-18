@@ -1,7 +1,7 @@
 Name: Dusitn Doyle 
 Student Number: 101167317
 Discord Username: Demoknight
-Date: June 9th 2022
+Date: June 9-17th 2022
 
 **DH Exploration Exercise Log
 
@@ -23,7 +23,7 @@ Before I can actually start to use the data on anything I must clean it. To do t
 
 Step Five: Use the data in Excel and R
 
-To start doing a bit of analysis I will be following some of what we do with the Execl & intro to R. First I just google sheets through google drive in place of excel as these two programs are basically the same except google's version is free. I opened my cleaned data onto a google spreadsheet then I used the insert chart to construct a chart. I then edited that chart to give it better names. This ended up giving me a nice graph to show the number of artifacts from each group or in other words topic. I am mostly looking for aviation stuff so seeing that it is by far the most common topic is excellent for me. Next onto R. In R I did much the same making the same graph and one extra to test. Also the next day when I restarted my VM there was some issue with storage space and nothing worked. Which prevented me from saving the Rcode normally thus I just used a screen snippet to save the image of this code.
+To start doing a bit of analysis I will be following some of what we do with the Execl & intro to R. First I just use google sheets through google drive in place of excel as these two programs are basically the same except google's version is free. I opened my cleaned data onto a google spreadsheet then I used the insert chart to construct a chart. I then edited that chart to give it better names. This ended up giving me a nice graph to show the number of artifacts from each group or in other words topic. I am mostly looking for aviation stuff so seeing that it is by far the most common topic is excellent for me. Next onto R. In R I did much the same making the same graph and one extra to test. Also the next day when I restarted my VM there was some issue with storage space and nothing worked. Which prevented me from saving the Rcode normally thus I just used a screen snippet to save the image of this code.
 
 Step Six: Make a new file with only the data from aviation.
 
@@ -33,17 +33,8 @@ Step Seven: Now to use this subset of data
 
 Now that we have the list of all aviation artifacts and aviation artifacts with location, I am going to be plotting the ones with locations on maps. Thus I will be using Mapping with Leaflet tutorial. But before that I need to get locations on a map from the names of either a province or a city. Thus I will be using google maps to find their locations in X and Y coordinates manually. For plotting these points I will also need to manually put in the locations and label them appropriately in the point-data.geojson file. To do this I had to flip the order of the numbers given in google, then if two items have same location I add artifact number to marker title.Though there is a way to automate this that could likely involve a lot of coding and use of various tools, and for just 21 points it’s not worth the time and effort to do so. This is because I would likely need to make a script to read then convert the aviationartefactsWithLoc.csv to the point-data.geojson file for us. This was the hardest part and also the longest part but mainly due to how long it took me to read through and understand all the code. Then play around with the code to confirm I understood how to do the mapping with my own data points. Then finally going between google, my point-data.geojson file, and the data, copying and pasting data back and forth, then double checking and changing how data was displayed on the map.  
 
-Step Eight: Use the graphs and maps created from the data
+Step Eight: Using the map created from the markers I talked about what this means for Canadian aviation. Talking about how foregin influence guided and shaped the Canadian aviation industry. Additionally I talked about its long lasting effects.
 
-Write up my results.md using all this information gained from the artifacts data.
+Step Nine: Post results.md as a web page
 
-Step Nine: Post results.md
-
-To do this I will use a static webpage posted to the web by github using the Static Webpage tutorial.
-
-
-
-
-
-
-
+After writing all of my work into a markdown file called results.md I used the Static Web Page tutorial to post it as a static webpage. This meant that I had to create another new repo which I named DH-Exploration-Exercise-WebPage. Additionally it should be noted that the results.md file found in DH-Exploration-Exercise is slightly different to the markdown file in the webpage repo, as I added a link to the website version.
