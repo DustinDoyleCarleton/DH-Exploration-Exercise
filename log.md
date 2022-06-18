@@ -36,7 +36,9 @@ To do this I will be using the cleaning and manipulating data with R tutorial. U
 
 Now that we have the list of all aviation artifacts and aviation artifacts with location, I am going to be plotting the ones with locations on maps. Thus I will be using Mapping with Leaflet tutorial. But before that I need to get locations on a map from the names of either a province or a city. Thus I will be using google maps to find their locations in X and Y coordinates manually. For plotting these points I will also need to manually put in the locations and label them appropriately in the point-data.geojson file. To do this I had to flip the order of the numbers given in google, then if two items have same location I add artifact number to marker title.Though there is a way to automate this that could likely involve a lot of coding and use of various tools, and for just 21 points it’s not worth the time and effort to do so. This is because I would likely need to make a script to read then convert the aviationartefactsWithLoc.csv to the point-data.geojson file for us. This was the hardest part and also the longest part but mainly due to how long it took me to read through and understand all the code. Then play around with the code to confirm I understood how to do the mapping with my own data points. Then finally going between google, my point-data.geojson file, and the data, copying and pasting data back and forth, then double checking and changing how data was displayed on the map.  
 
-### Step Eight: Using the map created from the markers I talked about what this means for Canadian aviation. Talking about how foregin influence guided and shaped the Canadian aviation industry. Additionally I talked about its long lasting effects.
+### Step Eight: Analyse Artifact Map
+
+Using the map created from the markers I talked about what this means for Canadian aviation. Talking about how foregin influence guided and shaped the Canadian aviation industry. Additionally I also talked about its long lasting effects.
 
 ### Step Nine: Post results.md as a web page
 
