@@ -5,6 +5,8 @@ The Tutorials I used to make this piece of Digital History:
 3. Cleaning and Manipulating Data with R https://craftingdh.netlify.app/tutorials/clean-data-r/
 4. Web-mapping with Leaflet https://craftingdh.netlify.app/tutorials/mapping/
 5. Static Websites https://craftingdh.netlify.app/tutorials/static-websites/
+
+Website Version Link: https://dustindoylecarleton.github.io/DH-Exploration-Exercise-WebPage/
  
 # How foreign influence shaped Canada's Aviation Industry
 By Dustin Doyle, Proof Read by Dianna Gardner
